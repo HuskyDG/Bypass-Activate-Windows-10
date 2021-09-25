@@ -1,2 +1,2 @@
-# Bypass-Activate-Windows-10
+# About
 Using a Windows 10 license will always receive a lot of support from the provider, in addition it also increases stability, you will encounter fewer Windows 10 errors during use. However, not everyone has the conditions to own a copyrighted version of Windows 10 as well as Active Windows 10 every year so that they can promptly receive the necessary support and continuous updates from the prevention system
