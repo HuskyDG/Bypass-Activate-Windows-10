@@ -7,4 +7,4 @@ Thanks [MSGuides.com](http://MSGuides.com) for making this script
 
 # Instruction
 
-Download BAT file, make sure file is on your Windows 10. Run BAT file script with **Run as administrator**
+[Download BAT file](https://github.com/HuskyDG/Bypass-Activate-Windows-10/releases/download/v1.0/active-window-10.bat) , make sure file is on your Windows 10. Run BAT file script with **Run as administrator**
